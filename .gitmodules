@@ -1,3 +1,6 @@
 [submodule "dependencies/kvp-extractor"]
 	path = dependencies/kvp-extractor
 	url = git@github.com:arthurpassos/KeyValuePairExtractor.git
+[submodule "dependencies/poco"]
+	path = dependencies/poco
+	url = git@github.com:pocoproject/poco.git

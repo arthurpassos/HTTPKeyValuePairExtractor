@@ -7,4 +7,4 @@ add_executable(HTTPKeyValuePairExtractor main.cpp)
 
 add_subdirectory(dependencies)
 
-target_link_libraries(HTTPKeyValuePairExtractor KeyValuePairExtractorLib)
+target_link_libraries(HTTPKeyValuePairExtractor KeyValuePairExtractorLib Poco::Net Poco::Foundation Poco::Util)
