@@ -1,0 +1,3 @@
+[submodule "dependencies/kvp-extractor"]
+	path = dependencies/kvp-extractor
+	url = git@github.com:arthurpassos/KeyValuePairExtractor.git
